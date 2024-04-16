@@ -1,12 +1,20 @@
 Primeiro projeto
 
 Criar Site sobre um determinado assunto
+
 Criar no minimo 3 paginas
+
 Todas as paginas devem estar ligadas pela navegação
+
 O css deve ser externo e conter pelo menos uma imagem
+
 No CSS todas as areas do site devem ser estilizadas separadamente (body, header, footer, main, section, div)
 
+=========================
+
 obs: as únicas tags obrigatórias são:(header, footer, main, section, nav, a, img, video)
+
+=========================
 
 Criar pelo menos duas classes (tanto faz class ou id)
 Processo
