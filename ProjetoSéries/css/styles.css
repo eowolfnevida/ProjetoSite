@@ -9,15 +9,16 @@ body{
         
     }
     .F1 {
-        display: flex;
+        text-align: left;
         justify-content: space-around;
         background-color: #808080;
         padding: 20px;
     }
     
     .F1zinho {
-        flex: 2;
+        
         margin-right: 20px;
+        margin-left: 0;
     }
     
     .F1zinho h3 {
@@ -55,10 +56,48 @@ body{
     }
     .pzinho1{
         font-size: 25px;
-        color: #FF00FF;
-        text-shadow: 2px 2px 5px #FF00FF;
+        color: #b176fe;
+        text-shadow: 2px 2px 5px #ba87fa;
+        font-weight: bold   ;
     }
     .pzinho2{
         color: white;
         text-shadow: 2px 2px 5px white;
     }
+
+    
+    
+    header {
+        background-color: #1c1c1c; 
+        padding: 20px 0; 
+    }
+    .Logo{
+        width: 95%; 
+        margin: 0 auto; 
+        display: flex;
+        align-items: center;
+
+
+
+    }
+    .Logo nav a{
+        text-decoration: none;
+        
+    }
+    .TITULO{
+        margin-left: 20px;
+        color: #b176fe;
+        text-shadow: 2px 2px 7px #ba87fa;
+        
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .pages{
+        margin-left: 10px auto;
+        padding: 20px    ;
+        color: white;
+        text-shadow: 2px 2px 5px white;
+        font-weight: bold;
+        font-size: 18px;
+    }
+    
