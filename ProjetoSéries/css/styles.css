@@ -1,0 +1,186 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-image: url(Images/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+    background-color: lightgray;
+    
+
+    
+    margin: 0;
+}
+
+    footer{
+
+        background-color: #808080;
+        
+    }
+    .F1 {
+        text-align: left;
+        justify-content: space-around;
+        background-color: #808080;
+        padding: 20px;
+        margin: 0;
+    }
+    
+    .F1zinho {
+        
+        margin-right: 20px;
+        margin-left: 0;
+    }
+    
+    .F1zinho h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+        color: white;
+    }
+    
+    .F1zinho ul {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .F1zinho ul li {
+        margin-bottom: 5px;
+    }
+    
+    .F1zinho ul li a {
+        text-decoration: none;
+        color: #FFC0CB;
+    }
+    
+    .F1zinho ul li a:hover {
+        color: #FFC0CB;
+    }
+    .F2 {
+
+        display: flex;
+        justify-content: space-around;
+        background-color: #1C1C1C;
+        padding: 20px;
+        text-align: center;
+        margin-bottom: 20px;
+        box-shadow: 2px 2px 2px #808080;
+        margin: 0;
+    }
+    .pzinho1{
+        font-size: 25px;
+        color: #b176fe;
+        text-shadow: 2px 2px 5px #ba87fa;
+        font-weight: bold   ;
+    }
+    .pzinho2{
+        color: white;
+        text-shadow: 2px 2px 5px white;
+    }
+
+    
+    
+    header {
+        background-color: #1c1c1c; 
+        padding: 20px 0; 
+    }
+    .Logo{
+        width: 95%; 
+        margin: 0 auto; 
+        display: flex;
+        align-items: center;
+
+
+
+    }
+    .Logo nav a{
+        text-decoration: none;
+        
+    }
+    .TITULO{
+        margin-left: 20px;
+        color: #b176fe;
+        text-shadow: 2px 2px 7px #ba87fa;
+        
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .pages{
+        margin-left: 10px auto;
+        padding: 20px    ;
+        color: white;
+        text-shadow: 2px 2px 5px white;
+        font-weight: bold;
+        font-size: 18px;
+    }
+    .pag1 h1{
+        margin-top: 20px;
+        text-align: left;
+        padding: 5px;
+        text-shadow: 2px 2px 2px purple;
+    }
+    .pag1 {
+        
+        padding: 50px;
+        font-size: 20px;
+        margin: 0;
+        width: 100%;
+        overflow: hidden;
+        margin-right: 10px;
+        
+    }
+    .pag1 img{
+        float: left;
+        box-shadow: 1px 1px 5px black;
+        margin-right: 20px;
+       
+    }
+    .espaco{
+        clear: both;
+    }
+    .pagetitle {
+        font-weight: bold;
+        text-align: center;
+        padding: 30px;
+        color: white;
+        text-shadow: 2px 2px 2px purple;
+    }
+    .textos{
+        background-color: rgba(186, 135, 250, 0.7);
+        width: 90%;
+        margin-left: 5%;
+        background-position: center;
+        border-radius: 5px;
+        margin-bottom: 10%;
+       
+        
+    }
+    
+    
+    .pag2 h1{
+        margin-top: 20px;
+        text-align: left;
+        padding: 5px;
+        text-shadow: 2px 2px 2px purple;
+    }
+    .pag2 {
+        
+        padding: 50px;
+        font-size: 20px;
+        margin: 0;
+        width: 100%;
+        overflow: hidden;
+        margin-right: 10px;
+        
+    }
+    .pag2 img{
+        float: left;
+        box-shadow: 1px 1px 5px black;
+        margin-right: 20px;
+       
+    }
+    .pag2 p{
+        display: inline-block;
+        margin-right: 10px;
+    }
